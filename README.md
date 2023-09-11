@@ -1,2 +1,2 @@
-# ModerationDiscordBot
-Bot Moderation
+# AkimoMod
+Mod for Aki
